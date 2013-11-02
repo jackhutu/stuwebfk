@@ -1,0 +1,24 @@
+{
+  "name": "winkyfirstnode",
+  "version": "0.0.2",
+  "description": "jsfuns",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hutufeia2009/stuwebfk"
+  },
+  "keywords": [
+    "stuwebfk"
+  ],
+  "author": "winky",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/hutufeia2009/stuwebfk/issues"
+  }
+}
